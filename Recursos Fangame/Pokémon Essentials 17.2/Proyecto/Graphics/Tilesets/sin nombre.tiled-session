@@ -1,0 +1,145 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/User/Desktop/BasedeClase.tmx",
+    "automapping.whileDrawing": true,
+    "expandedProjectPaths": [
+    ],
+    "exportAsImage.drawObjectLabels": false,
+    "exportAsImage.drawTileGrid": false,
+    "exportAsImage.includeBackgroundColor": false,
+    "exportAsImage.useCurrentScale": false,
+    "file.lastUsedOpenFilter": "Todos los archivos (*)",
+    "fileStates": {
+        "C:/Users/User/Desktop/BasedeClase.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 217.33333333333331,
+                "y": 858
+            }
+        },
+        "C:/Users/User/Desktop/Elevador.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 160,
+                "y": 159.66666666666669
+            }
+        },
+        "C:/Users/User/Desktop/Interior general.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/User/Desktop/Mansion interior.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/User/Desktop/NuevoplanoNivel6.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1228,
+                "y": 1257.6666666666665
+            }
+        },
+        "C:/Users/User/Desktop/Outside.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/User/Desktop/Outside2.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/User/Desktop/Piso 6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/User/Desktop/Poke Centre interior.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/User/Desktop/alevador2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/User/Desktop/departamento.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/User/Desktop/elevador.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/User/Desktop/elevador3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/User/Desktop/interior 2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/User/Desktop/interior2.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/User/Desktop/medieval_pokemon_tileset__alienor_interiors_v1__by_anarlaurendil_dewgfsr.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/User/Desktop/piso6.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 173.33333333333331,
+                "y": 128.33333333333334
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/User/Desktop",
+    "last.externalTilesetPath": "C:/Users/User/Downloads",
+    "last.imagePath": "C:/Users/User/Desktop/Pokémon Essentials Esp v16.3/Graphics/Tilesets",
+    "map.height": 16,
+    "map.lastUsedExportFilter": "Archivos de mapa JavaScript (*.js)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 32,
+    "openFiles": [
+        "C:/Users/User/Desktop/Interior general.tsx",
+        "C:/Users/User/Desktop/Elevador.tmx",
+        "C:/Users/User/Desktop/interior 2.tsx",
+        "C:/Users/User/Desktop/departamento.tsx",
+        "C:/Users/User/Desktop/BasedeClase.tmx",
+        "C:/Users/User/Desktop/Poke Centre interior.tsx"
+    ],
+    "project": "sin nombre.tiled-project",
+    "recentFiles": [
+        "C:/Users/User/Desktop/Interior general.tsx",
+        "C:/Users/User/Desktop/Elevador.tmx",
+        "C:/Users/User/Desktop/interior 2.tsx",
+        "C:/Users/User/Desktop/departamento.tsx",
+        "C:/Users/User/Desktop/Poke Centre interior.tsx",
+        "C:/Users/User/Desktop/BasedeClase.tmx",
+        "C:/Users/User/Desktop/NuevoplanoNivel6.tmx",
+        "C:/Users/User/Desktop/Outside2.tsx",
+        "C:/Users/User/Desktop/interior2.tsx",
+        "C:/Users/User/Desktop/Mansion interior.tsx",
+        "C:/Users/User/Desktop/medieval_pokemon_tileset__alienor_interiors_v1__by_anarlaurendil_dewgfsr.tsx",
+        "C:/Users/User/Desktop/Outside.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
