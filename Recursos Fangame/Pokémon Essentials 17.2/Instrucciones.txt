@@ -1,1 +1,0 @@
-Para empezar con tu proyecto, abre el archivo Game.rxproj con el RPG Maker XP y listo.
